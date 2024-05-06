@@ -1,2 +1,2 @@
 # vlm-chat-vector-ja
-VLMに対してChat Vectorを行うサンプルコード
+LLaVAにChat Vectorを使用して日本語指示に従うようにするためのサンプルコード
